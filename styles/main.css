@@ -1,0 +1,5 @@
+/* import the lowest priority files first because then they can be overwritten by higher priority files below */
+@import url(./global.css);
+@import url(./components.css);
+@import url(./image.css);
+@import url(./text.css);

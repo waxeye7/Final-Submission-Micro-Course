@@ -1,0 +1,23 @@
+.background-image {
+  background-image: url("../img/flower.jpg");
+}
+
+.single-image-section {
+  height: 100%;
+  text-align: center;
+}
+
+.image-background-color {
+  background-color: rgb(20, 20, 20);
+}
+
+.image {
+  height: 100%;
+  max-width: 100%;
+}
+
+.iframe {
+  width: 75%;
+  height: clamp(14rem, 30vw, 40rem);
+  border: 0px;
+}
